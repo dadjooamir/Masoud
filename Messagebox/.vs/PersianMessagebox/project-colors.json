@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "04e8dcc9-6c0e-4cc0-9916-d20b86e0d89d": {
+      "ProjectGuid": "04e8dcc9-6c0e-4cc0-9916-d20b86e0d89d",
+      "DisplayName": "PersianMessagebox",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,46 @@
+c:\users\dotnetyar\documents\visual studio 2017\Projects\PersianMessagebox\PersianMessagebox\bin\Debug\PersianMessagebox.pdb
+c:\users\dotnetyar\documents\visual studio 2017\Projects\PersianMessagebox\PersianMessagebox\obj\Debug\PersianMessagebox.csprojResolveAssemblyReference.cache
+c:\users\dotnetyar\documents\visual studio 2017\Projects\PersianMessagebox\PersianMessagebox\obj\Debug\PersianMessagebox.ShowMessage.resources
+c:\users\dotnetyar\documents\visual studio 2017\Projects\PersianMessagebox\PersianMessagebox\obj\Debug\PersianMessagebox.Properties.Resources.resources
+c:\users\dotnetyar\documents\visual studio 2017\Projects\PersianMessagebox\PersianMessagebox\obj\Debug\PersianMessagebox.csproj.GenerateResource.Cache
+c:\users\dotnetyar\documents\visual studio 2017\Projects\PersianMessagebox\PersianMessagebox\obj\Debug\PersianMessagebox.pdb
+c:\users\dotnetyar\documents\visual studio 2017\Projects\PersianMessagebox\PersianMessagebox\bin\Debug\PersianMessagebox.dll
+c:\users\dotnetyar\documents\visual studio 2017\Projects\PersianMessagebox\PersianMessagebox\obj\Debug\PersianMessagebox.dll
+C:\Users\Masoud\Desktop\PersianMessagebox\PersianMessagebox\obj\Debug\PersianMessagebox.ShowMessage.resources
+C:\Users\Masoud\Desktop\PersianMessagebox\PersianMessagebox\obj\Debug\PersianMessagebox.Properties.Resources.resources
+C:\Users\Masoud\Desktop\PersianMessagebox\PersianMessagebox\obj\Debug\PersianMessagebox.csproj.GenerateResource.cache
+C:\Users\Masoud\Desktop\PersianMessagebox\PersianMessagebox\obj\Debug\PersianMessagebox.csproj.CoreCompileInputs.cache
+C:\Users\Masoud\Desktop\PersianMessagebox\PersianMessagebox\obj\Debug\PersianMessagebox.dll
+C:\Users\Masoud\Desktop\PersianMessagebox\PersianMessagebox\obj\Debug\PersianMessagebox.pdb
+C:\Users\Masoud\Desktop\PersianMessagebox\PersianMessagebox\bin\Debug\PersianMessagebox.dll
+C:\Users\Masoud\Desktop\PersianMessagebox\PersianMessagebox\bin\Debug\PersianMessagebox.pdb
+C:\Users\Masoud\Desktop\PersianMessagebox\PersianMessagebox\obj\Debug\PersianMessagebox.csproj.AssemblyReference.cache
+C:\Users\Masoud\Desktop\messge\Messagebox\PersianMessagebox\bin\Debug\PersianMessagebox.pdb
+C:\Users\Masoud\Desktop\messge\Messagebox\PersianMessagebox\obj\Debug\PersianMessagebox.csproj.AssemblyReference.cache
+C:\Users\Masoud\Desktop\messge\Messagebox\PersianMessagebox\obj\Debug\PersianMessagebox.ShowMessage.resources
+C:\Users\Masoud\Desktop\messge\Messagebox\PersianMessagebox\obj\Debug\PersianMessagebox.Properties.Resources.resources
+C:\Users\Masoud\Desktop\messge\Messagebox\PersianMessagebox\obj\Debug\PersianMessagebox.csproj.GenerateResource.cache
+C:\Users\Masoud\Desktop\messge\Messagebox\PersianMessagebox\obj\Debug\PersianMessagebox.csproj.CoreCompileInputs.cache
+C:\Users\Masoud\Desktop\messge\Messagebox\PersianMessagebox\obj\Debug\PersianMessagebox.pdb
+C:\Users\Masoud\Desktop\messge\Messagebox\PersianMessagebox\bin\Debug\PersianMessagebox.dll
+C:\Users\Masoud\Desktop\messge\Messagebox\PersianMessagebox\obj\Debug\PersianMessagebox.dll
+C:\Users\Masoud\Desktop\messge\messge\Messagebox\PersianMessagebox\bin\Debug\PersianMessagebox.dll
+C:\Users\Masoud\Desktop\messge\messge\Messagebox\PersianMessagebox\bin\Debug\PersianMessagebox.pdb
+C:\Users\Masoud\Desktop\messge\messge\Messagebox\PersianMessagebox\obj\Debug\PersianMessagebox.csproj.AssemblyReference.cache
+C:\Users\Masoud\Desktop\messge\messge\Messagebox\PersianMessagebox\obj\Debug\PersianMessagebox.ShowMessage.resources
+C:\Users\Masoud\Desktop\messge\messge\Messagebox\PersianMessagebox\obj\Debug\PersianMessagebox.Properties.Resources.resources
+C:\Users\Masoud\Desktop\messge\messge\Messagebox\PersianMessagebox\obj\Debug\PersianMessagebox.csproj.GenerateResource.cache
+C:\Users\Masoud\Desktop\messge\messge\Messagebox\PersianMessagebox\obj\Debug\PersianMessagebox.csproj.CoreCompileInputs.cache
+C:\Users\Masoud\Desktop\messge\messge\Messagebox\PersianMessagebox\obj\Debug\PersianMessagebox.dll
+C:\Users\Masoud\Desktop\messge\messge\Messagebox\PersianMessagebox\obj\Debug\PersianMessagebox.pdb
+C:\Users\Masoud\Desktop\artan\messge\Messagebox\PersianMessagebox\bin\Debug\PersianMessagebox.exe
+C:\Users\Masoud\Desktop\artan\messge\Messagebox\PersianMessagebox\bin\Debug\PersianMessagebox.pdb
+C:\Users\Masoud\Desktop\artan\messge\Messagebox\PersianMessagebox\obj\Debug\PersianMessagebox.csproj.AssemblyReference.cache
+C:\Users\Masoud\Desktop\artan\messge\Messagebox\PersianMessagebox\obj\Debug\PersianMessagebox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Masoud\Desktop\artan\messge\Messagebox\PersianMessagebox\obj\Debug\PersianMessagebox.ShowMessage.resources
+C:\Users\Masoud\Desktop\artan\messge\Messagebox\PersianMessagebox\obj\Debug\PersianMessagebox.Properties.Resources.resources
+C:\Users\Masoud\Desktop\artan\messge\Messagebox\PersianMessagebox\obj\Debug\PersianMessagebox.csproj.GenerateResource.cache
+C:\Users\Masoud\Desktop\artan\messge\Messagebox\PersianMessagebox\obj\Debug\PersianMessagebox.csproj.CoreCompileInputs.cache
+C:\Users\Masoud\Desktop\artan\messge\Messagebox\PersianMessagebox\obj\Debug\PersianMessagebox.exe
+C:\Users\Masoud\Desktop\artan\messge\Messagebox\PersianMessagebox\obj\Debug\PersianMessagebox.pdb
+C:\Users\Masoud\Desktop\artan\messge\Messagebox\PersianMessagebox\obj\Debug\PersianMessagebox.Form1.resources
